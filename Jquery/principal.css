@@ -1,0 +1,23 @@
+#abas{
+border:1px solid green;
+}
+
+#abas ul{
+	display: inline;
+	list-style: none;
+}
+
+#abas ul li{
+	display: inline-block;
+	border: solid 1px black;
+	padding: 5px 10px;
+	border-radius: 10px 10px 0 0; 
+}
+
+.conteudo{
+	border: 1px solid red;
+}
+
+.selecionado{
+	background-color: black;
+}
